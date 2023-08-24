@@ -1,0 +1,33 @@
+/* src/components/About.css */
+.about {
+  background-color: #333; /* Dark gray background color */
+  color: white; /* Text color */
+  padding: 3rem;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.headshot-text-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.headshot-container {
+  width: 200px;
+}
+
+.headshot {
+  max-width: 100%;
+}
+
+.typing-text {
+  text-align: left;
+}
+
+.typing-text span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1.5; /* Adjust line-height for better alignment */
+  font-size: 1.8em; /* Increased font size */
+}
