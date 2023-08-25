@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dhruv3745/Dhruv-Saxena/static/css/main.c635327b.css",
+    "main.js": "/dhruv3745/Dhruv-Saxena/static/js/main.3ca0433e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dhruv3745/Dhruv-Saxena/static/js/787.28cb0dcd.chunk.js",
+    "static/media/headshotImage.png": "/dhruv3745/Dhruv-Saxena/static/media/headshotImage.e636cb69b3b0b7010c0d.png",
+    "static/media/project2_3.jpg": "/dhruv3745/Dhruv-Saxena/static/media/project2_3.4c57cef4d401a92de1b8.jpg",
+    "static/media/project2_4.jpg": "/dhruv3745/Dhruv-Saxena/static/media/project2_4.44a9659c5d34de36e75f.jpg",
+    "static/media/project2_1.jpg": "/dhruv3745/Dhruv-Saxena/static/media/project2_1.8e5c6c75de72e071f0e6.jpg",
+    "static/media/project2_2.jpg": "/dhruv3745/Dhruv-Saxena/static/media/project2_2.755092dc457b9c9927e2.jpg",
+    "static/media/Resume.jpg": "/dhruv3745/Dhruv-Saxena/static/media/Resume.117711a30256976ac902.jpg",
+    "index.html": "/dhruv3745/Dhruv-Saxena/index.html",
+    "main.c635327b.css.map": "/dhruv3745/Dhruv-Saxena/static/css/main.c635327b.css.map",
+    "main.3ca0433e.js.map": "/dhruv3745/Dhruv-Saxena/static/js/main.3ca0433e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dhruv3745/Dhruv-Saxena/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c635327b.css",
+    "static/js/main.3ca0433e.js"
+  ]
+}
